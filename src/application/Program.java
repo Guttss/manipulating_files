@@ -1,3 +1,9 @@
+/* Antes de tudo crie um arquivo com o nome de "input.csv"
+ * e adiciona os valores dentro dele, como nome, preco e quantidade,
+ * e no console passe o caminho para este arquivo
+ * Exemplo: C:\Windows\Temp\input.csv
+ */
+
 package application;
 
 import java.io.BufferedReader;
